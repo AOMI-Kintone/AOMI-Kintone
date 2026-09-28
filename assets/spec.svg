@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180">
+  <defs>
+    <style>
+      .serif { font-family: 'Noto Serif JP', 'Yu Mincho', 'Hiragino Mincho ProN', serif; }
+      .sans  { font-family: 'Helvetica Neue', Arial, sans-serif; }
+      .cap   { font-size: 14px; fill: #8fb3e0; letter-spacing: 2px; }
+      .num   { font-size: 44px; font-weight: 700; fill: #ffffff; }
+      .unit  { font-size: 18px; fill: #c0c0c0; }
+    </style>
+  </defs>
+  <rect width="1200" height="180" rx="6" fill="#0a0a0a"/>
+  <g stroke="#446084" stroke-opacity="0.6">
+    <path d="M300 36V144M600 36V144M900 36V144"/>
+  </g>
+
+  <g text-anchor="middle">
+    <text x="150" y="58" class="sans cap">– 期間 –</text>
+    <text x="150" y="120" class="serif num">24h<tspan class="unit">365日</tspan></text>
+
+    <text x="450" y="58" class="sans cap">– 温度 –</text>
+    <text x="450" y="120" class="serif num">20<tspan class="unit">±0.5°</tspan></text>
+
+    <text x="750" y="58" class="sans cap">– 設備 –</text>
+    <text x="750" y="120" class="serif num">160<tspan class="unit">台以上</tspan></text>
+
+    <text x="1050" y="58" class="sans cap">– 最小加工 –</text>
+    <text x="1050" y="120" class="serif num">φ0.01<tspan class="unit">mm</tspan></text>
+  </g>
+</svg>
