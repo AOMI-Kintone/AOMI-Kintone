@@ -63,7 +63,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AOMI-Kintone&theme=github_dark" />
 <img height="165" src="https://streak-stats.demolab.com?user=AOMI-Kintone&hide_border=true&background=0a0a0a&ring=446084&fire=8fb3e0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8fb3e0&sideLabels=c0c0c0&dates=999999&stroke=334862" />
 
 </div>
