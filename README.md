@@ -63,8 +63,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AOMI-Kintone&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=8fb3e0&icon_color=446084&text_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOMI-Kintone&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=8fb3e0&text_color=ffffff" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AOMI-Kintone&theme=github_dark" />
+<img height="165" src="https://streak-stats.demolab.com?user=AOMI-Kintone&hide_border=true&background=0a0a0a&ring=446084&fire=8fb3e0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8fb3e0&sideLabels=c0c0c0&dates=999999&stroke=334862" />
 
 </div>
 
